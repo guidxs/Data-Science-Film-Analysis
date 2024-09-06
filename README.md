@@ -22,9 +22,9 @@ Este repositório contém análises de dados sobre filmes e séries das platafor
 ## Como Usar
 
 1. Clone o repositório:
-   ```
-   git clone https://github.com/guidxs/Data-Science-Film-Analysis.git
-   ```
+```
+git clone https://github.com/guidxs/Data-Science-Film-Analysis.git
+```
    
 2. Navegue até o diretório do projeto:
 ```
