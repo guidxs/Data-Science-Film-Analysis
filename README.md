@@ -33,12 +33,13 @@ cd Movie-Data-Analysis
 
 3. Execute os scripts Python para realizar as análises.
 
-# Requisitos
-Python 3.x
-Pandas
-Matplotlib
-NumPy
-Seaborn
-SciPy
-SkLearn
-Jupyter Notebook (opcional, para visualizar os notebooks)
+**Requisitos**:
+
+- Python 3.x
+- Pandas
+- Matplotlib
+- NumPy
+- Seaborn
+- SciPy
+- SkLearn
+- Jupyter Notebook (opcional, para visualizar os notebooks)
